@@ -1,7 +1,7 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route, useLocation } from 'react-router-dom';
 import ScrollToTop from './components/ScrollToTop';
-import Welcome from './pages/Welcome';
+import Welcome from './pages/welcome';
 import Home1 from './pages/Home1';
 import Home2 from './pages/Home2';
 import Header from './components/Header';
